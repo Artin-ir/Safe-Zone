@@ -1,6 +1,6 @@
 # ESX Safe Zone
 
-I am not owner of this script , I Just edit this script
+I don't own this script, I just edited it
 
 # Requirements
 
